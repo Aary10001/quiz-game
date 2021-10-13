@@ -1,0 +1,61 @@
+body
+{
+	background-image: url("kbc.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	margin-top: 100px;
+}
+
+#bg
+{
+	background-image: url("https://st2.depositphotos.com/1008191/5284/i/950/depositphotos_52847565-stock-photo-abstract-purple-background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	
+}
+
+	.login_div1 
+	{
+		background:purple;
+		color: white;
+		padding: 10px;
+		float: left;
+		border-radius: 15px;
+		margin-top: 210px;
+	}
+	.login_div2 
+	{
+		background:purple;
+		color: white;
+		padding: 10px;
+		float: right;
+		border-radius: 15px;
+		border-radius: 15px;
+		margin-top: 210px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
